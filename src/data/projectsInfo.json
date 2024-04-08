@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "title": "Northcoders Bootcamp",
+      "projects": [
+        {
+          "title": "NC News back-end",
+          "desc": "...",
+          "img_url":"/src/assets/pics/ncn-BE.png",
+          "techStack": "...",
+          "githubLink": "",
+          "hostedLink": ""
+        },
+        {
+          "title": "NC News front-end",
+          "desc": "...",
+          "img_url":"/src/assets/pics/nc-news-high-resolution-logo.png",
+          "techStack": "...",
+          "githubLink": "",
+          "hostedLink": ""
+        },
+        {
+          "title": "NC-500",
+          "desc": "...",
+          "img_url":"/src/assets/pics/nc-500.png",
+          "techStack": "...",
+          "githubLink": "",
+          "hostedLink": ""
+        }
+      ]
+    }
+  ]
+}

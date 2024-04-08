@@ -1,0 +1,62 @@
+#root {
+  max-width: 2280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.select-image{
+  width: auto;
+  height: 290px;
+
+  object-fit: cover
+  
+  
+}
+.select-image-container{
+  width:250px;
+  height: 250px;
+  align-items: center;
+  justify-content: center;
+  contain: content
+ 
+  
+}
+
+.project-list{
+  display: flex;
+  flex-wrap: wrap;
+}
+.main{
+  width: 2000px;
+  border: solid black 3px;
+}
+
+.projects{
+  align-self: center;
+  border: solid black 3px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+ 
+}
+
+.edit{
+  border: solid black 3px;
+
+}
+.project-select-single{
+  width: 250px;
+  height: 250px;
+
+
+}
+
+.project-select-single:hover{
+  width: 250px;
+  height: 250px;
+  transform: scale(1.05);
+
+
+}
+
+
